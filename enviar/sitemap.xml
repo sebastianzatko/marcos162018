@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://marcosyvanesa.com/index.html</loc>
+    <lastmod>2018-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://marcosyvanesa.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://marcosyvanesa.com/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://marcosyvanesa.com/images/gas-mask.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcosyvanesa.com/images/classroom.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcosyvanesa.com/images/plnata.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcosyvanesa.com/images/casco.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcosyvanesa.com/images/fire.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcosyvanesa.com/images/seo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcosyvanesa.com/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcosyvanesa.com/images/twitter_alt.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcosyvanesa.com/images/google.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcosyvanesa.com/images/smartphones-couple.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcosyvanesa.com/images/notification.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcosyvanesa.com/images/correo.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>
